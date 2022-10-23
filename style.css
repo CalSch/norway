@@ -11,12 +11,16 @@ html {
 }
 
 body {
-	margin-top: 50px;
+	margin-top: 60px;
 	height: 100vh;
 }
 
 body > h1,body > p {
 	text-align: center;
+}
+
+main hr + p {
+	text-indent: 30px;
 }
 
 
