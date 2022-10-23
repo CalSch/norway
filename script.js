@@ -1,5 +1,5 @@
 let navEl=document.getElementById('nav')
-fetch('/norway/nav.html').then((res)=>{
+fetch('nav.html').then((res)=>{
 	res.text().then((text)=>{
 		navEl.innerHTML=text;
 	})

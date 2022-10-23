@@ -1,28 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+html {
+	background-color: beige;
+	background-image: url('noise.png');
+	background-size: 250px;
+}
+
+body {
+	margin-top: 50px;
+	height: 100vh;
+}
+
 body > h1,body > p {
 	text-align: center;
 }
+
 
 main {
 	border: 1px solid black;
 	padding: 10px;
 	width: calc(100vw - 40px);
+	background-color: rgba(255, 255, 255, 0.575);
+
+	box-shadow: 5px 10px 10px 0 rgba(0, 0, 0, 0.322);
 }
 
 nav {
-	position: static;
+	position: fixed;
 	top: 5px;
 	left: 5px;
-	width: fit-content;
+	width: calc(100vw - 30px);
 	border: 1px blue solid;
-	border-radius: 2px;
-	background-color: rgba(255, 255, 255, 0.308);
+	border-radius: 5px;
+	background-color: rgba(169, 204, 250, 0.308);
 	backdrop-filter: blur(5px);
+	box-shadow: 1px 3px 5px 0px rgba(0, 0, 0, 0.274),
+		  inset 0px 0px 20px 0px rgba(156, 156, 255, 0.658);
 }
 
 nav ul {
 	list-style-type: none;
+	padding: 10px;
+	margin: 0;
 }
 
 nav li {
 	display: inline;
+}
+nav li::after {
+	content: "|";
+	padding: 0 2px 0 5px;
+}
+nav li:last-child::after {
+	content: "";
 }
