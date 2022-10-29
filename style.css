@@ -19,8 +19,18 @@ body > h1,body > p {
 	text-align: center;
 }
 
-main hr + p {
-	text-indent: 30px;
+
+aside {
+	float: right;
+}
+aside img {
+	width: 300px;
+	margin-left: calc(100% - 300px);
+
+	box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.48);
+}
+aside img + p {
+	font-size: small;
 }
 
 
@@ -29,6 +39,8 @@ main {
 	padding: 10px;
 	width: calc(100vw - 40px);
 	background-color: rgba(255, 255, 255, 0.575);
+
+	border-radius: 5px;
 
 	box-shadow: 5px 10px 10px 0 rgba(0, 0, 0, 0.322);
 }
