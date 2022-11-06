@@ -2,6 +2,7 @@
 
 * {
 	font-family: 'Ubuntu', sans-serif;
+	transition: all 0.3s;
 }
 
 html {
@@ -23,14 +24,25 @@ body > h1,body > p {
 
 aside {
 	float: right;
+	width: 300px;
+	border-left: 1px grey solid;
+	border-bottom: 1px grey solid;
+	padding: 5px;
+	margin-bottom: 10px;
+	display: block;
+
+
+	background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.217), rgba(0, 0, 0, 0));
 }
 aside img {
 	width: 300px;
 	margin-left: calc(100% - 300px);
 
+	border-radius: 5px;
+
 	box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.48);
 }
-aside img + p {
+aside p {
 	font-size: small;
 }
 
@@ -38,8 +50,11 @@ aside img + p {
 main {
 	border: 1px solid black;
 	padding: 10px;
-	width: calc(100vw - 40px);
+	width: calc(100vw - 60px);
+	height: fit-content;
 	background-color: rgba(255, 255, 255, 0.575);
+
+	overflow: auto;
 
 	border-radius: 5px;
 
