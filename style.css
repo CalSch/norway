@@ -25,8 +25,13 @@ body > h1,body > p {
 aside {
 	float: right;
 	width: 300px;
+
 	border-left: 1px grey solid;
 	border-bottom: 1px grey solid;
+	border-bottom-left-radius: 10px;
+
+	box-shadow: -2px 5px 5px rgba(0, 0, 0, 0.283);
+
 	padding: 5px;
 	margin-bottom: 10px;
 	display: block;
