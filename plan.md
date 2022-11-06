@@ -77,8 +77,8 @@ Bandy is a sport similar to ice hockey by being played on ice with skates, stick
 - Origin
   - Norway
 - Folk or pop
-  - Folk, 
+  - Folk, it's traditional music in their native language, and they are usually about things in rural life such as Christmas feasts.
 - Diffusion
   - Festivals
-  - Stimulus?
+  - Mostly expansion, and a bot of relocation.
 
