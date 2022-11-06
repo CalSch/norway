@@ -66,6 +66,9 @@ Bandy is a sport similar to ice hockey by being played on ice with skates, stick
 - Sources
   - https://en.wikipedia.org/wiki/Constitution_Day_(Norway)
 
+<<<<<<< HEAD
+# Language
+=======
 ## Norwegian Folk Music
 - What is it?
   - Instruments:
@@ -81,4 +84,39 @@ Bandy is a sport similar to ice hockey by being played on ice with skates, stick
 - Diffusion
   - Festivals
   - Mostly expansion, and a bot of relocation.
+>>>>>>> 02625f1759b1c5eee299a321ddea3d5b4caf45ee
+
+- Norwegian
+  - Written in 2 ways: Bokmål and Nynorsk
+  - Official language
+  - Vocab: (Bokmål)
+    - Hallo - Hello
+    - Jeg kommer fra Norge - I come from Norway
+    - Hva heter du? - What is your name?
+    - Jeg liker frosker - I like frogs
+- Sámi (group)
+  - 3 different lanugages
+  - Co-official
+- Kven
+  - Co-official
+
+# Religion
+
+- biggest
+  - Christianity
+  - Atheism
+  - Islam
+- Christialinty
+  - Monotheistic
+  - Ethnic or __Universalising__
+    - TODO: Why?
+  - Symbols
+    - The Cross
+  - \# of followers
+    - 2.3 billion
+  - Holy book
+    - The Bible
+  - Holy sites
+    - Jerusalem
+  - Main beleifs
 
