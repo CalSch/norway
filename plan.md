@@ -66,25 +66,7 @@ Bandy is a sport similar to ice hockey by being played on ice with skates, stick
 - Sources
   - https://en.wikipedia.org/wiki/Constitution_Day_(Norway)
 
-<<<<<<< HEAD
 # Language
-=======
-## Norwegian Folk Music
-- What is it?
-  - Instruments:
-    - Hardanger fiddle
-    - Bukkehorn (goat horn)
-  - Two types: instruental and vocal
-  - For entertainment and dancing
-  - Sometimes fariy tales?
-- Origin
-  - Norway
-- Folk or pop
-  - Folk, it's traditional music in their native language, and they are usually about things in rural life such as Christmas feasts.
-- Diffusion
-  - Festivals
-  - Mostly expansion, and a bot of relocation.
->>>>>>> 02625f1759b1c5eee299a321ddea3d5b4caf45ee
 
 - Norwegian
   - Written in 2 ways: Bokmål and Nynorsk
