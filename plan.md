@@ -81,6 +81,13 @@ Bandy is a sport similar to ice hockey by being played on ice with skates, stick
   - Co-official
 - Kven
   - Co-official
+- Dialect
+  - SE Norway
+    - I : jé
+    - They : Dem
+  - SW Norway
+    - I : eg
+    - They : De
 
 # Religion
 
