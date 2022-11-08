@@ -7,8 +7,8 @@
 
 html {
 	background-color: beige;
-	background-image: linear-gradient(0deg, rgba(255, 42, 0, 0.303), transparent), url('noise.png');
-	background-size: auto 200%, 250px;
+	background-image: url('noise.png');
+	background-size: 250px;
 	height: 100%;
 	overflow: auto;
 }
