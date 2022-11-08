@@ -7,13 +7,16 @@
 
 html {
 	background-color: beige;
-	background-image: url('noise.png');
-	background-size: 250px;
+	background-image: linear-gradient(0deg, rgba(255, 42, 0, 0.303), transparent), url('noise.png');
+	background-size: auto 200%, 250px;
+	height: 100%;
+	overflow: auto;
 }
 
 body {
 	background-color: transparent;
 	margin-top: 60px;
+
 	height: 100vh;
 }
 
@@ -36,14 +39,18 @@ aside {
 	margin-bottom: 10px;
 	display: block;
 
-
 	background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.217), rgba(0, 0, 0, 0));
+}
+aside:hover {
+	width: 320px;
 }
 aside img, aside iframe {
 	width: 300px;
-	margin-left: calc(100% - 300px);
+	/* margin-left: calc(100% - 300px); */
 
 	border-radius: 5px;
+
+	background-color: white;
 
 	box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.48);
 }
